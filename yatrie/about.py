@@ -1,0 +1,7 @@
+__title__ = 'yatrie'
+__version__ = '0.1.0'
+__summary__ = 'Python Trie data structure for fast string lookups'
+__uri__ = 'https://github.com/surajiyer/trie'
+__author__ = 'Suraj Iyer'
+__email__ = 'me@surajiyer.com'
+__license__ = 'MIT'
